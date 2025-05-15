@@ -28,7 +28,7 @@
 ## 📫 Bana Ulaşın
 
 📧 simsekesra166@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/esra-şimşek-1a1380271)
+🔗 www.linkedin.com/in/esra-şimşek-1a1380271
 
 ---
 
