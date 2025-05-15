@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Merhaba, ben Esra Şimşek!
 
-<!--
-**esrasimsekceng/esrasimsekceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sivas Cumhuriyet Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
+💻 Yazılım geliştirme ve özellikle **web tasarımı**, **masaüstü uygulamalar** ve **IoT projeleri** ile ilgileniyorum.  
+📈 Gelişmeye açık bir yapıya sahibim ve yeni teknolojileri öğrenmeyi severim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Hakkımda
+
+- 🔧 Java, C#, HTML, CSS dillerinde projeler geliştirdim.
+- 🗃️ SQL veritabanı sistemlerine ve sorgulamalarına hâkimim.
+- 🧠 Trello gibi proje ve görev yönetim araçlarını aktif olarak kullanıyorum.
+- 🧪 Raspberry Pi gibi sistemlerde sensörlerle donanım tabanlı projeler yaptım.
+- 🎨 Web tasarımı ve kullanıcı arayüzü geliştirme konularında kendimi geliştirmekteyim.
+
+---
+
+## 🚀 Kullandığım Teknolojiler
+
+- 💻 **Programlama Dilleri:** Java, C#, HTML, CSS, SQL  
+- 🌐 **Web Teknolojileri:** Frontend Web Tasarımı, Responsive UI  
+- 🧰 **Donanım & IoT:** Raspberry Pi, Sensör Tabanlı Projeler  
+- 📋 **Araçlar:** Trello, Git, Visual Studio, IntelliJ IDEA, MSSQL Server, Visual Studio Code
+
+---
+
+## 📫 Bana Ulaşın
+
+📧 simsekesra166@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/esra-şimşek-1a1380271)
+
+---
+
+> 💡 Her zaman öğrenmeye açık, üretmeyi ve paylaşmayı seven bir geliştiriciyim. Yeni projelerde yer almak ve deneyim kazanmak için buradayım!
