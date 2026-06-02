@@ -105,10 +105,6 @@ Full-stack e-commerce web application with product catalog, session-based cart, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrasimsekceng&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=esrasimsekceng&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
 ---
 
 <p align="center">
