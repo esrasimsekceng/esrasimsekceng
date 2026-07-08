@@ -19,7 +19,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year **Computer Engineering** student at **Sivas Cumhuriyet University** (GPA: 3.13/4.00)
+- 🎓 Final-year **Computer Engineering** student at **Sivas Cumhuriyet University** (GPA: 3.22/4.00)
 - 🤖 Passionate about **Data Science**, **Artificial Intelligence**, and **Big Data** technologies
 - 🏢 Completed internships at **Mapin Data**, **ICED Company**, and **Harran University IT Department**
 - 🤝 Active **Computer Vision Team Member** at **TEKNOFEST** Robotics Competition
